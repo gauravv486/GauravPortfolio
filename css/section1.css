@@ -1,0 +1,51 @@
+.left {
+  font-size: 1.6rem;
+}
+
+.firstsection {
+  display: flex;
+  justify-content: space-around;
+  margin: 120px 0;
+}
+
+.firstsection > div {
+  width: 30%;
+}
+
+.firstsection .leftsection{
+  width: 50%;
+}
+.firstsection .rightsection{
+  width: 25%;
+}
+
+.leftsection {
+  font-size: 2.5rem;
+}
+
+.leftsection .btn {
+    padding: 8px;
+    background: #05050b;
+    border: 2px solid rgb(4, 242, 255);
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+}
+
+.rightsection img {
+  width: 55%;
+}
+
+.purple {
+  color:rgb(4, 242, 255);
+}
+
+#element {
+  color: rgb(255, 255, 255);
+}
+.rightsection #ggg{
+  width: 70%;
+  height: 75%;
+  border-radius: 50%;
+}
